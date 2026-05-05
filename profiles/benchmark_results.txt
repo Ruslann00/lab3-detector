@@ -1,0 +1,3 @@
+  79893             13790 ns/op           18794 B/op        105 allocs/op
+ 375957              2713 ns/op           10346 B/op          6 allocs/op
+  
